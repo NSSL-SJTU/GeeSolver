@@ -4,12 +4,6 @@ This repository contains the code for the paper:
 GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas
 In 44th IEEE Symposium on Security and Privacy (Oakland 2023).
 
-## Usage of Text-Based Captchas
-
-Text captchas have good user-friendliness, so many companies (e.g., Google, Microsoft, and Yandex) still use them on user login pages. After entering incorrect passwords multiple times, the user will be required to submit the results of text-based captchas. Detailed use cases and their security feature analysis are available on https://github.com/NSSL-SJTU/GeeSolver/tree/main/Cases. 
-
-Since Alexa.com ends service on May 1, 2022, the complete list of the top 50 websites ranked by Alexa.com (including the corresponding captcha system) are available on https://github.com/NSSL-SJTU/GeeSolver/tree/main/AlexaList.
-
 ## Our Insights into Text-Based Captchas
 
 We would like to better present our insights and corresponding designs through the following three questions.
@@ -84,7 +78,11 @@ Note: When using `--dataset_name microsoft`, don't forget to add `-–character 
 | Apple      | <img src="https://github.com/NSSL-SJTU/GeeSolver/blob/main/images/apple.jpg" width="120px" height="40px"> | 95.60%       |
 | Ganji      | <img src="https://github.com/NSSL-SJTU/GeeSolver/blob/main/images/ganji-1.png" width="120px" height="40px"> | 99.73%       |
 
+## Usage of Text-Based Captchas
 
+Text captchas have good user-friendliness, so many companies (e.g., Google, Microsoft, and Yandex) still use them on user login pages. After entering incorrect passwords multiple times, the user will be required to submit the results of text-based captchas. Detailed use cases and their security feature analysis are available on https://github.com/NSSL-SJTU/GeeSolver/tree/main/Cases. 
+
+Since Alexa.com ends service on May 1, 2022, the complete list of the top 50 websites ranked by Alexa.com (including the corresponding captcha system) are available on https://github.com/NSSL-SJTU/GeeSolver/tree/main/AlexaList.
 
 ## Reference
 
