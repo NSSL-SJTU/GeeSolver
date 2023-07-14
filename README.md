@@ -84,6 +84,18 @@ Text captchas have good user-friendliness, so many companies (e.g., Google, Micr
 
 Since Alexa.com ends service on May 1, 2022, the complete list of the top 50 websites ranked by Alexa.com (including the corresponding captcha system) is available on https://github.com/NSSL-SJTU/GeeSolver/tree/main/AlexaList.
 
+## Contact-Info
+
+Link to our laboratory: [SJTU-NSSL](https://github.com/NSSL-SJTU "SJTU-NSSL")
+
+[Ruijie Zhao](https://github.com/iZRJ)
+<br>
+Email: ruijiezhao@sjtu.edu.cn
+
+[Xianwen Deng](https://github.com/SJTU-dxw))
+<br>
+Email: 2594306528@sjtu.edu.cn
+
 ## Reference
 
 R. Zhao, X. Deng, Y. Wang, Z. Yan, Z. Han, L. Chen, Z. Xue, and Y. Wang, ``GeeSolver: A Generic, Efficient, and Effortless Solver with Self-Supervised Learning for Breaking Text Captchas,'' in IEEE Symposium on Security and Privacy (IEEE S&P 2023), San Francisco, United States, May 22--24, 2023, pp. 1--18.
