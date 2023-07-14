@@ -92,7 +92,7 @@ Link to our laboratory: [SJTU-NSSL](https://github.com/NSSL-SJTU "SJTU-NSSL")
 <br>
 Email: ruijiezhao@sjtu.edu.cn
 
-[Xianwen Deng](https://github.com/SJTU-dxw))
+[Xianwen Deng](https://github.com/SJTU-dxw)
 <br>
 Email: 2594306528@sjtu.edu.cn
 
